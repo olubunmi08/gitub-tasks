@@ -773,7 +773,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n   \"clientName\": \"olubunmi\",\n   \"clientEmail\": \"olubunmi.odubanjo@gmail.com\"\n}",
+					"raw": "{\n   \"clientName\": \"olubunmi\",\n   \"clientEmail\": \"olubunmi.osiberu1997@gmail.com\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -809,16 +809,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://simple-books-api.glitch.me/status",
-					"protocol": "https",
-					"host": [
-						"simple-books-api",
-						"glitch",
-						"me"
-					],
-					"path": [
-						"status"
-					]
+					"raw": ""
 				}
 			},
 			"response": []
